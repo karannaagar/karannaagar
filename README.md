@@ -1,3 +1,7 @@
+## Karan Nagar - DevOps Engineer and AI Enthusiast
+
+I'm karan 👋 a passionate Cloud/DevOps engineer from India with a strong background in Ansible Automation and DevOps Culture Implementation. 
+
 - 🔭 I’m currently working as DevOps Engineer
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on any DevOps project which can used other developers
